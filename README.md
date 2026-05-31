@@ -4,13 +4,13 @@
 </h1>
 
 
-<h3 align="center">A Full Stack Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A Full Stack Engineer from Pakistan 🇵🇰</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m a **Full Stack Developer**
+ 🔭 I’m a **Full Stack Engineer**
  
 ⚡ Fun fact **I love to code**
 
@@ -24,7 +24,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/meerab-shahid-25831b350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan asif" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/MeerabShahid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://wa.me/923190635977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 <a href="meerabshahid866@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
